@@ -32,3 +32,6 @@ This promotes `ks-guestbook-demo:0.2` to `green` status and `Rollout` deletes ol
 a
 b
 c
+1
+2
+3
